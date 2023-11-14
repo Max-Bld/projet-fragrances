@@ -1,11 +1,10 @@
 # Projet Fragrances
-ML: Non-supervised K-Means classification of perfumes
 
 ![Projet Fragrances image](https://i.ibb.co/db0K4Fy/dataset-cover.jpg "Projet Fragrances")
 
 ## Objectif
 
-*L’objectif du projet Fragrances est de tenter d’identifier des classes de parfums à partir des ingrédients utilisés dans chacun d’eux.*
+*L’objectif du projet Fragrances est de tenter d’identifier des classes de parfums à partir des ingrédients utilisés dans chacun d’eux à l'aide d'un algorithme K-Means non-supervisé.*
 
 *Par exemple, les parfums qui partagent des notes de fruits seraient rassemblés dans la famille olfactive « fruitée », tandis que ceux où le musc est présent dans la famille « musquée ».*
 
