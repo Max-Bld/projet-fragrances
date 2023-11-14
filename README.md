@@ -10,10 +10,12 @@
 
 ## Ordre de consultation des fichiers
 
-Le fichier à consulter en premier est **projet_fragrances_dossier.pdf** car il décrit le déroulement complet du projet pour classifier ce jeu de données à l'aide de l'agorithme K-Means et des outils d'analyse textuelle de la librairie NLTK.
+**projet_fragrances_dossier.pdf** décrit le déroulement complet du projet pour classifier ce jeu de données à l'aide de l'agorithme K-Means et des outils d'analyse textuelle de la librairie NLTK.
+
+Les fichiers Python s'exécutent dans l'ordre suivant : **fragrances_1_eda.py**, **fragrances_2_pretraitement.py** et **fragrances_3_machinelearning.py**.
 
 Le jeu de données de départ est **perfume_data_notes.csv**, et ceux d'arrivée qui contiennent les classes déterminées par l'algorithme K-Means sont **perfumes_3clusters.csv** et **perfumes_5clusters.csv**.
 
-Les fichiers Python s'exécutent dans l'ordre suivant : **fragrance.py**, **fragrance_df_norm.py** et **fragrance_numerisation.py**.
+L
 
 Une mise à jour de ce repository viendra prochainement pour rendre plus clairs les fichiers Python.
