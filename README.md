@@ -15,3 +15,5 @@
 Les fichiers Python s'exécutent dans l'ordre suivant : **fragrances_1_eda.py**, **fragrances_2_pretraitement.py** et **fragrances_3_machinelearning.py**.
 
 Le jeu de données de départ est **perfume_data_notes.csv**, et ceux d'arrivée qui contiennent les classes déterminées par l'algorithme K-Means sont **perfumes_3clusters.csv** et **perfumes_5clusters.csv**.
+
+![Projet Fragrances Classification](https://i.ibb.co/d4TyLh5/image.png "Classification")
